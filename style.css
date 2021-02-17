@@ -34,5 +34,6 @@ body{
   color: white;
 }
 p{
- width:50%; 
+ width:50%;
+ align-content: left; 
 }
