@@ -9,14 +9,7 @@ body{
   margin: 3px;
   padding: 10px;
   height: 30% ;
-}
-
-.header {
-  width: 100%;
-  padding:60px 0;
-  text-align: center;
-  background: #316666;
-  color: white;
+  width:50%;
 }
 
 .banner{
