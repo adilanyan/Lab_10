@@ -11,6 +11,14 @@ body{
   height: 30% ;
 }
 
+.header {
+  width: 100%;
+  padding:60px 0;
+  text-align: center;
+  background: #316666;
+  color: white;
+}
+
 .banner{
 
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("MH.png")
