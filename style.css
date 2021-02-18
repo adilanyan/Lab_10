@@ -10,7 +10,7 @@ body{
   height: 30% ;
 }
 
-img{
+#mh{
   /* Set a specific height */
   height: 50%;
   width:60%;
@@ -28,7 +28,21 @@ img{
   color: white;
 }
 p{
- width:50%; 
- align-content: center;
- text-align: left;
+  width:50%; 
+  align-content: center;
+  text-align: left;
+}
+
+/* Animation */
+@-webkit-keyframes fadeIn {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}       
+@keyframes fadeIn {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
 }
