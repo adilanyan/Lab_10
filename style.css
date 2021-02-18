@@ -16,6 +16,7 @@ body{
 
   /* Set a specific height */
   height: 50%;
+  width:60%;
 
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
